@@ -1,0 +1,29 @@
+body {
+  width: 100%;
+  margin: 0;
+}
+
+.main-page {
+  background-color: #FFFFFF;
+  height: 1100px;
+  width: 100%;
+}
+
+header .header .sign_up {
+  width: 150px;
+  height: 45px;
+  border: 1px solid #F53855;
+  border-radius: 50px;
+  color: #F53855;
+}
+
+.text {
+  color: #4F5665;
+}
+
+.features-page {
+  background-color: #F6F6F6;
+  height: 2083px;
+}
+
+/*# sourceMappingURL=main.css.map */
